@@ -1,0 +1,159 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: white;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #CA82FF;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #610C63;
+}
+
+a {
+  color: #CA82FF;
+  padding: 30px;
+  margin-bottom: 100px;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+
+.top-container {
+  background-color: #610C63;
+  padding-top: 100px;
+
+}
+
+.middle-container {
+  padding:
+
+}
+
+.bottom-container {
+   background-color: #610C63;
+   padding: 50px;
+}
+.C {
+  margin-top: 50px;
+  color: white;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  top: 400px;
+}
+
+.pro {
+  text-decoration: overline;
+}
+
+.dp {
+  margin-top: 50px;
+  border-radius: 20%;
+  width: 230px;
+  height: 200px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.program {
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.game {
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+}
+
+.football {
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.btn:hover {
+  background: #610C63;
+  background-image: -webkit-linear-gradient(top, #610C63, #2b3033);
+  background-image: -moz-linear-gradient(top, #610C63, #2b3033);
+  background-image: -ms-linear-gradient(top, #610C63, #2b3033);
+  background-image: -o-linear-gradient(top, #610C63, #2b3033);
+  background-image: linear-gradient(to bottom, #610C63, #2b3033);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn {
+  background: #CA82FF;
+  background-image: -webkit-linear-gradient(top, #CA82FF, #3498db);
+  background-image: -moz-linear-gradient(top, #CA82FF, #3498db);
+  background-image: -ms-linear-gradient(top, #CA82FF, #3498db);
+  background-image: -o-linear-gradient(top, #CA82FF, #3498db);
+  background-image: linear-gradient(to bottom, #CA82FF, #3498db);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.contact-me {
+  margin: 100px;
+}
+.D {
+  margin-bottom: 50px;
+}
+
+
+p {
+  font-family: 'Fascinate', cursive;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+hr {
+  border-style: dotted;
+  border-color: #610C63;
+  border-width: 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
