@@ -1,3 +1,3 @@
-# cv2 (new style)
+# cv (new style)
 
 website link : https://hassanqari9.github.io/cv2/
